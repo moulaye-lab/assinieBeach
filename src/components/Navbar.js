@@ -41,7 +41,7 @@ onClick={this.handleToggle}>
 <Link to="/">Acceuil</Link>
 </li>
 <li>
-<Link to="/rooms">Chambres</Link>
+<Link to="/rooms">Nos Chambres</Link>
 </li>
 </ul>
 
